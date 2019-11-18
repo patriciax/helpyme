@@ -2055,6 +2055,23 @@ color: #00000017;
   text-align: center;
 }
 
+.list .div{
+  float: right;
+  margin-bottom: 50px;
+}
+
+.list .form-control {
+  color: #047e74;
+  background-color: transparent;
+  border: 1px solid #047e74;
+}
+
+.list .btn {
+  line-height: 4px;
+  height: 40px;
+}
+
+
 @media (min-width: 0px) and (max-width: 767px) {
   .content-form .control-expanded .control-label {
     width: 100%;
